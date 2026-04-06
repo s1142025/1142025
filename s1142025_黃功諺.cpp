@@ -31,6 +31,6 @@ int main() {
 
   
     result.print();
-
+    cout << "The result of multiplying the two points is: "<< endl;
     return 0;
 }
