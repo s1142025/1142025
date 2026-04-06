@@ -23,7 +23,7 @@ public:
 };
 
 int main() {
-    Point p1(1, 2);
+    Point p1(10, 2);
     Point p2(3, 4);
 
 
